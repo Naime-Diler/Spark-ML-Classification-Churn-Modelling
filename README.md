@@ -1,4 +1,4 @@
-Im Projekt „Churn Modelling“ wird Spark Machine Learning eingesetzt, um Kundenabwanderungen vorherzusagen. Die wesentlichen Schritte sind:
+Im Projekt **„Spark Machine Learning: Churn Modelling“** wird Spark Machine Learning eingesetzt, um Kundenabwanderungen vorherzusagen. Die wesentlichen Schritte sind:
 
 **Datenvorbereitung:** Der Datensatz wird aus einer CSV-Datei geladen und in einem DataFrame gespeichert. Die Datentypen werden überprüft, und der Datensatz wird im Speicher gehalten, um die Verarbeitung zu beschleunigen.
 
